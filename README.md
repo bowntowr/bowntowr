@@ -24,12 +24,6 @@ editor: vscode
 theme: catppuccin mocha
 ```
 
-<details>
-<summary>hi</summary>
-
 ```txt
 i like making useful stuff :)
 ```
-
-</details>
-````
