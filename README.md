@@ -1,5 +1,5 @@
 <p align="center">
-  <i>making the web a little bit better.</i>
+  <i>making the web a little better.</i>
 </p>
 
 <p align="center">
