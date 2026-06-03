@@ -19,9 +19,9 @@
 ---
 
 ```yaml
-vibe: cozy engineering
-editor: vscode
-theme: catppuccin mocha
+vibe: casual engineering
+languages: python, luau
+hobbies: sound engineering, programming, gaming
 ```
 
 ```txt
