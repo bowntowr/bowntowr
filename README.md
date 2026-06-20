@@ -19,7 +19,7 @@
 ---
 
 ```yaml
-vibe: casual engineering
+working on: random projects
 languages: python, luau
 hobbies: sound engineering, programming, gaming
 ```
