@@ -30,5 +30,5 @@ i like making useful stuff :)
 
 ```yaml
 certifications:
-nothing here rn
+nothing here rn (working on Dante Certification Level 1 (3rd Edition))
 ```
