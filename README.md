@@ -28,5 +28,7 @@ hobbies: sound engineering, programming, gaming
 i like making useful stuff :)
 ```
 
-### 📜 Certifications
-Sorry nothing here rn!
+```yaml
+certifications:
+nothing here rn
+```
