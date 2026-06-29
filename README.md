@@ -27,3 +27,6 @@ hobbies: sound engineering, programming, gaming
 ```txt
 i like making useful stuff :)
 ```
+
+### 📜 Certifications
+Sorry nothing here rn!
