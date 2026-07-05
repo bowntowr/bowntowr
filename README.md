@@ -24,11 +24,11 @@ languages: python, luau
 hobbies: sound engineering, programming, gaming
 ```
 
-```txt
-i like making useful stuff :)
-```
-
 ```yaml
 certifications:
 nothing here rn (working on Dante Certification Level 1 (3rd Edition))
+```
+
+```txt
+i like making useful stuff :)
 ```
