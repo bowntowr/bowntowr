@@ -12,7 +12,7 @@
 ```yaml
 working on: random projects
 languages: python, luau
-hobbies: sound engineering, programming, gaming
+hobbies: foh sound, programming, gaming
 ```
 
 ```txt
